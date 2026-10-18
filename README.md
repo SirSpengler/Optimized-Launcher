@@ -1,4 +1,4 @@
-Um launcher de naruto online otimizado! 
+Um launcher de naruto online otimizado: https://www.youtube.com/watch?v=K0EBr-VpdZw
 
 Attention (EN): Always have the Visual C++ 2013 ~ 2026 driver installed on your PC (32/64 bits).
 Atenção (PT): Mantenha sempre o driver do Visual C++ 2013 ~ 2026 instalado em seu PC (32/64 bits).
