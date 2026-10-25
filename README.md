@@ -1,6 +1,7 @@
 Um launcher de naruto online otimizado: https://www.youtube.com/watch?v=K0EBr-VpdZw
 
 Feedback no discord do canal: https://discord.gg/VzGrDeaKhc
+
 https://www.youtube.com/@SirSpengler
 Deixem o like e apoiem o projeto!
 
